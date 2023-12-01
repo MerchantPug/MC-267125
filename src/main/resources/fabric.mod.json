@@ -8,11 +8,11 @@
 		"MerchantPug"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://modrinth.com/mod/mc-267125/",
 		"sources": "https://github.com/MerchantPug/MC-267125"
 	},
 	"license": "Unlicense",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/mc267125/icon.png",
 	"environment": "*",
 	"mixins": [
 		"mc267125.mixins.json"
